@@ -1,4 +1,4 @@
-
+# This was Sample Python script
 # Basic Calculator:
 
 # This function performs additiion
